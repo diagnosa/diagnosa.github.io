@@ -3,6 +3,8 @@
     {% for item in site.data.projects %}
     {% if item.page-name %}
     <a href="{{ site.url }}/projects/{{ item.page-name }}">
+    {% else if item.page-url %}
+    <a href="{{ item.page-url }}">
     {% else %}
     <a>
     {% endif %}
