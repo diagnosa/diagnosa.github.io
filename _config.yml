@@ -1,13 +1,13 @@
-title: "Will Russell"
-email: fellowship@mlh.io
+title: "Diagnosa Fenomena"
+email: diagnosa.fenomena@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I'm a software engineer with interest in Web Development, Artificial Intelligence, 
+  BioInformatics and Image Processing with ability to learn fast, adapt easily, 
+  and also a TDD practicioner.
 baseurl: "/" 
-url: "/portfolio-template" 
-twitter_username: mlhacks
-github_username:  mlh-fellowship
+url: "https://diagnosa.github.io/" 
+twitter_username: diagnosaf
+github_username:  diagnosa
 
 sass:
   sass_dir: _sass
