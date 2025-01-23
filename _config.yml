@@ -37,6 +37,8 @@ markdown: kramdown
 sass:
   style: compressed
 
+destination: './build'
+
 exclude:
 - "*.gemspec"
 - LICENSE.md
