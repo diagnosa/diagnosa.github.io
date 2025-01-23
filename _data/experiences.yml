@@ -1,0 +1,23 @@
+- role: Software Engineer (Team Lead)
+  company: BRIN
+  company-detail: "Indonesian National Research and Innovation Agency"
+  skill: "Team Management, Laravel PHP, Git"
+  year: "2021-2025"
+
+- role: Engineer
+  company: BPPT
+  company-detail: "Indonesian Agency for the Assessment and Application of Technology"
+  skill: "Data"
+  year: "2019-2021"
+  
+- role: Software Engineer
+  company: Tokopedia
+  company-detail: "Indonesian Unicorn E-commerce Company"
+  skill: "Backend Development (Go, Redis), Web Development (ReactJS)"
+  year: "2017-2019"
+
+- role: Software Engineer
+  company: Tripvisto
+  company-detail: "Travel and Leisure Startup"
+  skill: "Web Development (Laravel PHP)"
+  year: "2016-2017"
