@@ -1,7 +1,7 @@
 # site settings
-title: Portfolio
+title: DF Portfolio
 subtitle:
-email: 
+email:
 description: Master's Student in Interactive Media Technology
 baseurl: # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
@@ -22,11 +22,11 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/andrewbanchich
+  GitHub: https://github.com/diagnosa
   GitLab:
   Google-Plus:
   Instagram:
-  LinkedIn:
+  LinkedIn: https://www.linkedin.com/in/diagnosa-fenomena/
   Twitter:
   Facebook:
   Slack:
