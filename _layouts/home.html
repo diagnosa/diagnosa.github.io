@@ -41,7 +41,13 @@
                 <div class="8u 12u$(small)">
                     <ul class="alt">
                     {% for experience in site.data.experiences %}
-                        <li>{{ experience.role }}</li>
+                        <li>
+                            <time><small>{{ experience.year }}</small></time>
+                            <h3 style="margin-bottom: 0;">{{ experience.role }}</h3>
+                            <strong>{{ experience.company }}</strong>
+                            <span> - {{ experience.company-detail}}</span>
+                            <p>Skills : {{ experience.skill }}</p>
+                        </li>
                     {% endfor %}
                     </ul>
                 </div>
@@ -55,11 +61,17 @@
                     <h2>Education</h2>
                 </header>
                 <div class="row">
-                    <ul>
                     {% for edu in site.data.educations %}
-                        <li>{{ edu.campus }}</li>
+                        <div>
+                            <time><small>{{ edu.year }}</small></time>
+                            <h3 style="margin-bottom: 0;">{{ edu.campus }}</h3>
+                            <p>
+                                <strong>{{ edu.degree }} of {{ edu.program }}</strong>
+                                <br/>
+                                {{ edu.country}}
+                            </p>
+                        </div>
                     {% endfor %}
-                    </ul>
                 </div>
             </div>
         </section>
