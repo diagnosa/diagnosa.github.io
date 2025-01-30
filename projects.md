@@ -19,9 +19,10 @@ nav-menu: true
 			<div class="inner">
 				<header class="major">
 					<h3>SDGs Memory Game</h3>
+					<date>October 2024 - January 2025</date>
 				</header>
 				<p>
-					Contributors: Diagnosa Fenomena, Ediz Özdamar, Hyosun Kim, Matilda Jansson
+					<strong>Collaborators: Ediz Özdamar, Hyosun Kim, Matilda Jansson</strong>
 					<br/>
 				 	This project investigates the effect of human perception of color relation to visual short term memory.
 				</p>
@@ -40,9 +41,10 @@ nav-menu: true
 			<div class="inner">
 				<header class="major">
 					<h3>Plantastic</h3>
+					<date>August 2024 - October 2024</date>
 				</header>
 				<p>
-					Contributors: Diagnosa Fenomena, Klara Karlsson, Rasmus Hugosson, Yuquan Guo
+					<strong>Collaborators: Klara Karlsson, Rasmus Hugosson, Yuquan Guo</strong>
 					<br/>
 					This project explores interdependence between human and plant using double diamond method.
 				</p>
